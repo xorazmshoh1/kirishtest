@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="privacy_policy_url" translatable="false">https://example.github.io/abituriyent-189/privacy</string>
+    <color name="brand_primary">#3949AB</color>
+    <color name="brand_accent">#FB8C00</color>
+    <color name="launcher_background">#3949AB</color>
+
+    <style name="Theme.Abituriyent" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/brand_primary</item>
+        <item name="colorSecondary">@color/brand_accent</item>
+    </style>
+</resources>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Abituriyent 189</string>
+    <string name="back">Назад</string>
+    <string name="close">Закрыть</string>
+    <string name="next">Далее</string>
+    <string name="previous">Назад</string>
+    <string name="start">Начать</string>
+    <string name="finish">Завершить</string>
+    <string name="off">Выкл.</string>
+    <string name="test">Тест</string>
+    <string name="result">Результат</string>
+    <string name="settings">Настройки</string>
+
+    <string name="last_score">Балл последней симуляции</string>
+    <string name="daily_test">Ежедневный тест</string>
+    <string name="daily_hint">10 новых вопросов на сегодня</string>
+    <string name="daily_done">Сегодняшний тест выполнен — продолжайте завтра!</string>
+    <string name="streak_days">🔥 %1$d</string>
+    <string name="simulation">Симуляция</string>
+    <string name="simulation_subtitle">90 вопросов · 189 баллов</string>
+    <string name="subjects">Предметы</string>
+    <string name="subjects_count">Предметов: %1$d</string>
+    <string name="my_mistakes">Мои ошибки</string>
+    <string name="history">История результатов</string>
+    <string name="calculator">Калькулятор баллов</string>
+    <string name="favorites">Избранное</string>
+    <string name="topics">Темы</string>
+    <string name="block_mandatory">Обязательный</string>
+    <string name="block_special">Профильный</string>
+    <string name="subject_progress">Решено: %1$d/%2$d · верно %3$d%%</string>
+    <string name="how_many_questions">Сколько вопросов решить?</string>
+    <string name="by_topics">По темам</string>
+    <string name="count_questions">Вопросов: %1$d</string>
+
+    <string name="question_progress">%1$d/%2$d</string>
+    <string name="flag">Отметить</string>
+    <string name="favorite">Добавить в избранное</string>
+    <string name="finish_test">Завершить (%1$d/%2$d)</string>
+    <string name="finish_confirm_title">Завершить тест?</string>
+    <string name="finish_confirm_unanswered">Без ответа: %1$d. Они будут засчитаны как ошибки.</string>
+    <string name="continue_test">Продолжить</string>
+    <string name="empty_test_title">Нет вопросов</string>
+    <string name="empty_test_message">В этом разделе пока нет вопросов. Сначала решите другие тесты.</string>
+
+    <string name="total_score">Общий балл</string>
+    <string name="change_vs_last">По сравнению с прошлым разом: %1$s</string>
+    <string name="new_record">Новый личный рекорд! 🎉</string>
+    <string name="subject">Предмет</string>
+    <string name="correct_short">Верно</string>
+    <string name="score">Балл</string>
+    <string name="review_mistakes">Разбор ошибок</string>
+    <string name="to_home">На главную</string>
+    <string name="no_mistakes">Ошибок нет — отлично!</string>
+    <string name="not_answered">Нет ответа</string>
+    <string name="unlock_explanation">Открыть пояснение (реклама)</string>
+    <string name="source">Источник: %1$s</string>
+
+    <string name="history_empty">Симуляций пока нет</string>
+    <string name="history_empty_hint">После полной симуляции ваши баллы появятся здесь на графике.</string>
+    <string name="score_chart">Изменение балла</string>
+    <string name="calculator_hint">Введите число правильных ответов в каждом блоке.</string>
+    <string name="calc_mandatory">Обязательные предметы (×%1$s)</string>
+    <string name="calc_special1">1-й профильный предмет (×%1$s)</string>
+    <string name="calc_special2">2-й профильный предмет (×%1$s)</string>
+    <string name="from_0_to_30">от 0 до 30</string>
+
+    <string name="language">Язык</string>
+    <string name="direction">Направление</string>
+    <string name="mandatory_only">Только обязательные предметы</string>
+    <string name="choose_direction">Выберите направление</string>
+    <string name="theme">Тема</string>
+    <string name="theme_system">Системная</string>
+    <string name="theme_light">Светлая</string>
+    <string name="theme_dark">Тёмная</string>
+    <string name="reminder_time">Время напоминания</string>
+    <string name="simulation_duration">Длительность симуляции</string>
+    <string name="minutes_value">%1$d мин</string>
+    <string name="privacy_options">Настройки конфиденциальности рекламы</string>
+    <string name="privacy_policy">Политика конфиденциальности</string>
+    <string name="rate_app">Оценить приложение</string>
+    <string name="disclaimer">Приложение неофициальное и не связано с АОЗ (BMBA) или другими госорганами. Вопросы составлены авторами на основе школьной программы.</string>
+
+    <string name="slide1_title">Реальная система баллов</string>
+    <string name="slide1_text">90 вопросов, 5 предметов: обязательные — 1,1, профильные — 3,1 и 2,1 балла. Всего 189 баллов.</string>
+    <string name="slide2_title">Сколько баллов вы наберёте сейчас?</string>
+    <string name="slide2_text">Результат симуляции и таблица по предметам покажут слабые места.</string>
+    <string name="slide3_title">10 вопросов каждый день</string>
+    <string name="slide3_text">Ежедневный тест и серия дней подряд превращают подготовку в привычку.</string>
+
+    <string name="channel_daily">Напоминание о ежедневном тесте</string>
+    <string name="reminder_title">Ежедневный тест ждёт вас</string>
+    <string name="reminder_text">Решите 10 вопросов на сегодня.</string>
+    <string name="reminder_text_streak">Не прерывайте серию в %1$d дн. — решите 10 вопросов!</string>
+</resources>

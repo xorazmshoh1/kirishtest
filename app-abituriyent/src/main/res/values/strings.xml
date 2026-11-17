@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Abituriyent 189</string>
+    <string name="back">Orqaga</string>
+    <string name="close">Yopish</string>
+    <string name="next">Keyingi</string>
+    <string name="previous">Oldingi</string>
+    <string name="start">Boshlash</string>
+    <string name="finish">Yakunlash</string>
+    <string name="off">Oʻchiq</string>
+    <string name="test">Test</string>
+    <string name="result">Natija</string>
+    <string name="settings">Sozlamalar</string>
+
+    <string name="last_score">Oxirgi simulyatsiya balli</string>
+    <string name="daily_test">Kunlik test</string>
+    <string name="daily_hint">Bugungi 10 ta yangi savol</string>
+    <string name="daily_done">Bugungi test bajarildi — ertaga davom eting!</string>
+    <string name="streak_days">🔥 %1$d</string>
+    <string name="simulation">Simulyatsiya</string>
+    <string name="simulation_subtitle">90 savol · 189 ball</string>
+    <string name="subjects">Fanlar</string>
+    <string name="subjects_count">%1$d ta fan</string>
+    <string name="my_mistakes">Xatolarim</string>
+    <string name="history">Natijalar tarixi</string>
+    <string name="calculator">Ball kalkulyatori</string>
+    <string name="favorites">Saralanganlar</string>
+    <string name="topics">Mavzular</string>
+    <string name="block_mandatory">Majburiy</string>
+    <string name="block_special">Mutaxassislik</string>
+    <string name="subject_progress">Yechilgan: %1$d/%2$d · toʻgʻri %3$d%%</string>
+    <string name="how_many_questions">Nechta savol yechasiz?</string>
+    <string name="by_topics">Mavzular boʻyicha</string>
+    <string name="count_questions">%1$d ta savol</string>
+
+    <string name="question_progress">%1$d/%2$d</string>
+    <string name="flag">Belgilash</string>
+    <string name="favorite">Saralanganlarga qoʻshish</string>
+    <string name="finish_test">Yakunlash (%1$d/%2$d)</string>
+    <string name="finish_confirm_title">Testni yakunlaysizmi?</string>
+    <string name="finish_confirm_unanswered">%1$d ta savolga javob berilmagan. Ular xato hisoblanadi.</string>
+    <string name="continue_test">Davom etish</string>
+    <string name="empty_test_title">Savollar yoʻq</string>
+    <string name="empty_test_message">Bu boʻlimda hozircha savol yoʻq. Avval boshqa testlarni yeching.</string>
+
+    <string name="total_score">Umumiy ball</string>
+    <string name="change_vs_last">Oʻtgan safarga nisbatan: %1$s</string>
+    <string name="new_record">Yangi shaxsiy rekord! 🎉</string>
+    <string name="subject">Fan</string>
+    <string name="correct_short">Toʻgʻri</string>
+    <string name="score">Ball</string>
+    <string name="review_mistakes">Xatolar tahlili</string>
+    <string name="to_home">Bosh sahifaga</string>
+    <string name="no_mistakes">Xatolar yoʻq — ajoyib!</string>
+    <string name="not_answered">Javob berilmagan</string>
+    <string name="unlock_explanation">Izohni ochish (reklama)</string>
+    <string name="source">Manba: %1$s</string>
+
+    <string name="history_empty">Hali simulyatsiya topshirilmagan</string>
+    <string name="history_empty_hint">Toʻliq simulyatsiyadan keyin ballaringiz shu yerda grafikda koʻrinadi.</string>
+    <string name="score_chart">Ball oʻzgarishi</string>
+    <string name="calculator_hint">Har bir boʻlimdagi toʻgʻri javoblar sonini kiriting.</string>
+    <string name="calc_mandatory">Majburiy fanlar (×%1$s)</string>
+    <string name="calc_special1">1-mutaxassislik fani (×%1$s)</string>
+    <string name="calc_special2">2-mutaxassislik fani (×%1$s)</string>
+    <string name="from_0_to_30">0 dan 30 gacha</string>
+
+    <string name="language">Til</string>
+    <string name="direction">Yoʻnalish</string>
+    <string name="mandatory_only">Faqat majburiy fanlar</string>
+    <string name="choose_direction">Yoʻnalishingizni tanlang</string>
+    <string name="theme">Tema</string>
+    <string name="theme_system">Tizim</string>
+    <string name="theme_light">Yorugʻ</string>
+    <string name="theme_dark">Qorongʻi</string>
+    <string name="reminder_time">Eslatma vaqti</string>
+    <string name="simulation_duration">Simulyatsiya davomiyligi</string>
+    <string name="minutes_value">%1$d daqiqa</string>
+    <string name="privacy_options">Reklama maxfiyligi sozlamalari</string>
+    <string name="privacy_policy">Maxfiylik siyosati</string>
+    <string name="rate_app">Ilovani baholash</string>
+    <string name="disclaimer">Ilova rasmiy emas va BMBA yoki boshqa davlat idorasiga tegishli emas. Savollar mualliflar tomonidan maktab dasturi asosida tuzilgan.</string>
+
+    <string name="slide1_title">Real ball tizimi</string>
+    <string name="slide1_text">90 savol, 5 fan: majburiy fanlar 1,1, mutaxassislik fanlari 3,1 va 2,1 ball. Jami 189 ball.</string>
+    <string name="slide2_title">Hozir necha ball olasiz?</string>
+    <string name="slide2_text">Simulyatsiya natijasi va fanlar boʻyicha jadval zaif joylaringizni koʻrsatadi.</string>
+    <string name="slide3_title">Har kuni 10 ta savol</string>
+    <string name="slide3_text">Kunlik test va ketma-ket kunlar seriyasi tayyorgarlikni odatga aylantiradi.</string>
+
+    <string name="channel_daily">Kunlik test eslatmasi</string>
+    <string name="reminder_title">Kunlik test sizni kutmoqda</string>
+    <string name="reminder_text">Bugungi 10 ta savolni yeching.</string>
+    <string name="reminder_text_streak">%1$d kunlik seriyangizni uzmang — 10 ta savol yeching!</string>
+</resources>
